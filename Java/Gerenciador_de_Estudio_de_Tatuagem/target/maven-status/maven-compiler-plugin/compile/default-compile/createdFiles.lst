@@ -1,0 +1,8 @@
+model\Trabalho.class
+com\mycompany\gerenciador_de_estudio_de_tatuagem\Gerenciador_de_Estudio_de_Tatuagem.class
+model\Cliente.class
+model\Estoque.class
+view\CadastroCliente$1.class
+model\Agendamento.class
+view\CadastroCliente.class
+model\Profissional.class
