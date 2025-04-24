@@ -1,4 +1,4 @@
-# Tatoo-Studio-Manager
+# Tattoo-Studio-Manager
 Gerenciador de Estúdio de Tatuagem
 > Este é um sistema de gerenciamento para estúdios de tatuagem, desenvolvido com o 
 > intuito de ajudar os profissionais a gerenciarem de forma eficiente os agendamentos, 
